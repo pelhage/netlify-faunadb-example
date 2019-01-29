@@ -29,7 +29,7 @@ This application is using [React](https://reactjs.org/) for the frontend, [Netli
 1. Clone down the repository
 
     ```bash
-    git clone git@github.com:netlify/netlify-faunadb-example.git
+    git clone https://github.com/netlify/netlify-faunadb-example.git
     ```
 
 2. Install the dependencies
